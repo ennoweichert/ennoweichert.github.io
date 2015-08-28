@@ -1,0 +1,6 @@
+---
+linters:
+  QualifyingElement:
+    enabled: false
+  NestingDepth:
+    enabled: false

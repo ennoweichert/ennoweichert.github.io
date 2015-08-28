@@ -1,0 +1,13 @@
+language: node_js
+git:
+  depth: 10
+node_js:
+  - "0.12"
+before_install:
+  - sudo apt-get install -y ruby
+  - npm install -g grunt-cli
+  - gem install --no-ri compass
+  - gem install --no-ri scss-lint
+install:
+  - npm install
+
