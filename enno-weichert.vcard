@@ -1,9 +1,0 @@
-BEGIN:VCARD
-VERSION:4.0
-N:Weichert;Enno;;;
-FN:Enno Weichert
-TEL;TYPE=home,voice;VALUE=uri:tel:+4915120040451
-ADR;TYPE=home;LABEL="Wykhoffweg 52\n26725 Emden\nGermany":;;Wykhoffweg 52;Emden;;26725;Germany
-EMAIL:enno.weichert@gmail.com
-REV:20150826T131200Z
-END:VCARD 

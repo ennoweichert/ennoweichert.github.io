@@ -4,7 +4,7 @@ https://keybase.io/weichert
 
 I hereby claim:
 
-  * I am an admin of https://weichert.github.io
+  * I am an admin of http://ennoweichert.com
   * I am weichert (https://keybase.io/weichert) on keybase.
   * I have a public key with fingerprint 1E0E 7711 191A F36F 904A  F541 DFC7 FCE9 6735 C685
 
@@ -13,6 +13,7 @@ To do so, I am signing this object:
 {
     "body": {
         "key": {
+            "eldest_kid": "01014ed9e3b83561bb240a3c4c1fb2f41d21e59da8726ccc2fa87dd08036f300e6860a",
             "fingerprint": "1e0e7711191af36f904af541dfc7fce96735c685",
             "host": "keybase.io",
             "key_id": "dfc7fce96735c685",
@@ -22,47 +23,48 @@ To do so, I am signing this object:
         },
         "revoke": {
             "sig_ids": [
-                "54382c2ea76a25f69f9246953024b4b96315a21f651345b05a48d3e5105123af0f"
+                "5ffab8319ca7b8bff1cad9d401de08df2bd515cf4d21ca72b717535b037161c70f"
             ]
         },
         "service": {
-            "hostname": "weichert.github.io",
-            "protocol": "https:"
+            "hostname": "ennoweichert.com",
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1440576159,
+    "ctime": 1472808450,
     "expire_in": 157680000,
-    "prev": "de91b0e5161e81bffee33914095f422b49555ed5c74850677547c85e0a4780e3",
-    "seqno": 4,
+    "prev": "440485a9bc8c3ed0f085c9d10c93a09d085a31138a5f81adf9b7154ecf70557d",
+    "seqno": 5,
     "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.43
+Version: Keybase OpenPGP v2.0.56
 Comment: https://keybase.io/crypto
 
-yMJpAnicbVJdbBVFFL6VH28bIYUophjFjMYCVpjZ+dmdKw8qxkYU0hiwmpbczszO
-9C7F3dvdvZefioJR1EQTiT5QI/JAE0BSEIkaMA1ioBLpJTZiTNQaEyIkaiMBY6wE
-Zbbgi3FeZuac7/vON+fM8RlTcg11tYkiurP17Jt1p47tquRWjcU7+4CM/A2g0Ad6
-9ORmgrBbx+U4CFNQAEhD7boIIY6EwcxwSIShBPlGuUZpzlxMFfMoaAGlKMkYVkaK
-RC8KIhuzl2Lg2+j/4HsmExBBRLTPNZYepgxJ6RAosCIKGekYW8lBmnJfeK7DlFKO
-sSffhx60bjCEmnkMCitXmZTjCDrKsihhUnuUGCldiZnnE6IoRzwDJjoOxTPaotfp
-QJV0nIJNLSDW1ahHZx1Igm5rOgGFDkAJ9hzlaOEy4VDDuOEOYZxi6BBJJGcYUeEg
-wyjChEpIBfF8rCmCFDlYGGjAaqttK1YDNSmedek/1Rd1B2mpIq91rBxHaaSitTZf
-StNyUsi8pRvK1wiyeF2qKIPQt5OyjKqOkyAKQQFZpEqDTBsRAqnLEOUtQK8vB7Eu
-BhnCxjxoV1ZHV7O5aI4ktIYZ0h6SxmiNMUcEcmqI40jCKaXap8olHoXMdSlxlUc1
-FMT1oMYge1xvGIECsTZFt5W07QtFWok12PTZp51Tc3UNuenTbsj+Wq6hvvHfH9ia
-z+c+eGtYNDW/cuahZSfXbH/3k/jGxwcvn/2z66ue46c+fP7cxm9WjC9Onpw7kHvq
-/YPn93zZfnh4+fxl/4xMzPpo/5XxfFj9eV7b77Wmz0/sO11ZkJ+6dtvAnMKa2tDq
-o3TirhcOjG6T0y/M6Apru0pHdvx4snrikfbW/r3v/dSx4IvnhgZfzMWg/uWH+7ff
-s6fxnealtY7vbr3J23zb6zPR3xeTW14b2DxzSXP9vEe5aW/bMdyLB6ft/vXjsUuz
-l39fcL/dgh64b8nI0z/cu7VxXeeUQzcfOd31xujo5bbfDtb9IY4N3e8cXp+f/XVT
-Z7hl5PYHjz628u7xv15aeq7vl9ax8xufvQJ6z7y99Y69pSeaF756FfS6RBw=
-=rXqS
+yMJvAnicrZJdbBVFGIZPC0XaCDGBGNKYoJMAEQ50Zndmd/Zc9CTGyoVR0KZFsc1h
+ftu1sHvc3Rabk0YTEcvfBTXG6A1ECBCIUlIVjCJIjhB+JSAGEkIKNmlC0ZqijYUQ
+mS1wx6V7szu77/d8z3w75RlTMjUVZycK6Nmlv39ccfqn8c7MipMvVZYAD2U3yJVA
+h5q8qdVSxUmhw5cgByCCCCvpKZtTmziIcwtDZgsskOaWxkhaSBFPMupajhDC0uZJ
+Skih7WgbQuVQBzKQBdoP2lRUjPwgMVikoHJdhJCHmDZJD2KmiaFp4WqhPMe1iXAo
+MYXtYZxWGDnOYrXED807syhM6j0m/z97d07iPAQtYaoIdriiBGvOXW47VGIsiIe8
+NBirKGBrlEmvVb5oV1ECerIgUl1hh0rnGvttRjoGubcA0ZoZL+QJ5nLKtUaCSU9i
+iKSCVGqLS4KIaWgsTcTiLnKJTTi0XeQg4UINWg3bdOzyxSQ8ndLD7ioIwkcGS0S4
+xrgVozAJRbjafG1PkmIuFUu6iw9ceeEhp8D9QJrfZAq6VBT7YQByyCRF4qdghF2L
+QooJzAL1btGPVMFPE8R1KDRX2kZ1GSTGEFPCPC6osJWEGlIiPImg8GwGPTNkwmyE
+bMqIpohJ7Zn9EayEdiEhrgTpzt4JQpAjRpO1GaSZXcCSzkiBnmNHW6ZmKmoy06oq
+0+Obqal+6tGhzq974r+m8oIZP5Rmb+xfaJ8YvzD7CNvb3YCr/nj158O7Wk8c7P9+
++kfl2ta/N7/9Y3XdqpHjLdX57NwrVz5b/O2sO4NVW+71jFzc/d7aS2Nlp2UPWPTP
+0JP9//5Znz1/MPzg8pmm/c1Pj5bffO70vkNVX488420b2xz33bm78uhXv7E3Nr1e
+9/mGT2++9sryiXVHZl0a/DA3796Os7eHe8/XDsS3DzSNDvy6frS1Vi6EzUM2+O7a
+sZnPX5w6/YX918YGvjgUDN/I57c3Ns5r/ma41Nt7YdXMlp1xJlvdkF9+7ur8+r5N
+DRP1c+n1aXVbXwzGKw+/vGG9qokWD53768tTcxoHP7GWDd4adneXcu/37f3lPhg8
+ZFg=
+=b7rE
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -71,4 +73,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/weichert
 
 ==================================================================
- 
